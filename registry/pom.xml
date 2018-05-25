@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>registry</artifactId>
-
+<!--服务发现 尤里卡-->
     <dependencies>
         <dependency>
             <groupId>org.springframework.cloud</groupId>
